@@ -1,10 +1,12 @@
 ## Hello, World!
 
-My name is Matheus, but you can call me **Phindividuo (Φ)**.
+> ### My name is Matheus, but you can call me Phi *```Φ```*
 
-**- 🎓 Undergraduate student of Information Systems at Universidade Federal Fluminense (UFF)**  
-**- 🖥️ Software Dev. Internship at Banco Nacional de Desenvolvimento Econômico e Social (BNDES)**  
-**- ⭐ Passion for Cybersecurity, Free Software, Open Source and Chess!**
+• 🎓 **Undergraduate student of Information Systems at Universidade Federal Fluminense (UFF)**
+
+• 🖥️ **Software Dev. Internship at Banco Nacional de Desenvolvimento Econômico e Social (BNDES)**
+
+• ⭐ **Passion for Cybersecurity, Free Software, Open Source and Chess!**
 
 ##
 
@@ -19,17 +21,17 @@ My name is Matheus, but you can call me **Phindividuo (Φ)**.
 
 ##
 
-### Technologies
+### Technologies & Tools
 
 <div align="center"><br>
 
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/c.svg?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/python.svg?raw=true">
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/java.svg?raw=true">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/javascript.svg?raw=true">
   <img align="center" alt="SAP" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/sap.svg?raw=true">
   <img align="center" alt="ABAP" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/abap.svg?raw=true">
   <img align="center" alt="SAPUI5" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/sapui5.svg?raw=true">
-  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/linux.svg?raw=true">
 
 </div>
