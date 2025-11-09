@@ -1,8 +1,9 @@
 ## Hello, World!
 
 My name is Matheus, but you can call me **Phindividuo (Φ)**.
-**- 🎓 Undergraduate student of Information Systems at Universidade Federal Fluminense (UFF)**
-**- 🖥️ Software Dev. Internship at Banco Nacional de Desenvolvimento Econômico e Social (BNDES)**
+
+**- 🎓 Undergraduate student of Information Systems at Universidade Federal Fluminense (UFF)**  
+**- 🖥️ Software Dev. Internship at Banco Nacional de Desenvolvimento Econômico e Social (BNDES)**  
 **- ⭐ Passion for Cybersecurity, Free Software, Open Source and Chess!**
 
 ##
