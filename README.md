@@ -28,6 +28,6 @@
   <img align="center" alt="Java" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png">
   <img align="center" alt="SAP" height="40" width="40" src="https://img.icons8.com/color/48/sap.png">
   <img align="center" alt="SAPUI5" height="40" width="40" src="https://i.sstatic.net/IJM2H.png">
-  <img align="center" alt="Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png">
+  <img align="center" alt="Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png?20070323032439">
   
 </div>
