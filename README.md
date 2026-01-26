@@ -10,6 +10,9 @@
 
 ##
 
+<a href="https://github.com/phindividuo">
+<img src="https://github-readme-stats.vercel.app/api?username=phindividuo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=4073FF&title_color=4073FF&hide_border=true" align="right" />
+
 <div style="display: inline_block" align="center">
 
   [<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/333407355578482690)
