@@ -23,12 +23,12 @@
 <div align="center"><br>
 
   <img align="center" alt="C" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/c.svg?raw=true">
+<img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/python.svg?raw=true">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/phindividuo/phindividuo/blob/main/icons/javascript.svg?raw=true">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png">
   <img align="center" alt="SAP" height="40" width="40" src="https://img.icons8.com/color/48/sap.png">
   <img align="center" alt="Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png?20070323032439">
-  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
   <img align="center" alt="Neovim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg">
   <img align="center" alt="Emacs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg">
